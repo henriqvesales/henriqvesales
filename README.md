@@ -1,6 +1,6 @@
 # 👨🏻‍💻 José Henrique de Sales 
 
-**` Desenvolvedor fullstack`**
+**` Desenvolvedor backend`**
 
 Me chamo José Henrique de Sales, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Braz Cubas. Sou estudante do último semestre, apaixonado por tecnologia e desenvolvimento de soluções eficientes. Tenho conhecimentos em desenvolvimento Backend, com experiência em HTML, CSS, JavaScript, React, Node.js e SQL. 
 ---
